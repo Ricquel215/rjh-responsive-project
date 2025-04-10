@@ -1,5 +1,5 @@
 body {
-  background: rgb(250, 197, 98);
+  background: rgb(245, 196, 104);
 }
 
 h1,
@@ -7,6 +7,11 @@ p {
   text-align: center;
   color: rgb(107, 75, 7);
 }
+
+h2 {
+  color: rgb(107, 75, 7);
+}
+
 .croissant-photo {
   max-width: 100%;
   border-radius: 10px;
