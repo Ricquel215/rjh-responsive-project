@@ -1,12 +1,13 @@
 body {
-  background: blue;
+  background: rgb(250, 197, 98);
 }
 
 h1 {
   text-align: center;
-  color: white;
+  color: rgb(107, 75, 7);
 }
 
 a {
-  color: white;
+  color: rgb(107, 75, 7);
+  text-align: center;
 }
